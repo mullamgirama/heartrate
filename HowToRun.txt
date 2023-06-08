@@ -1,0 +1,5 @@
+// Import this code in VS Code
+
+open a new terminal
+
+node Test.run
